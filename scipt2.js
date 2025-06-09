@@ -73,7 +73,7 @@ if (sibblings < sibblingYouHave) {
 
 
 let time = 12
-let yourTime  = Prompt(`What time is it over there Just the 2 digits`)
+let yourTime  = prompt(`What time is it over there Just the 2 digits`)
 if (time > yourTime) {
     console.log(`Good Morning!`)
 } else {
