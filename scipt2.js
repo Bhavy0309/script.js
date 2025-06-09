@@ -78,7 +78,7 @@ if (time > yourTime) {
     console.log(`Good Morning!`)
 } else {
     console.log(`Good Afternoon!`)
-}
+} 
 
 
 let moneyLimit = 10 
